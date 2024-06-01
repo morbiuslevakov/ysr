@@ -1,5 +1,10 @@
 {
   "name": "YSR",
   "symbol": "YSR",
-  "image": "https://raw.githubusercontent.com/morbiuslevakov/ysr/main/logo.png"
+  "image": "https://raw.githubusercontent.com/morbiuslevakov/ysr/main/logo.png",
+  "description": "YSR - Your Sustainable Resource, a community token uniting people around the idea of a sustainable future. Our mission is to create an ecosystem where every community member has the opportunity to contribute to environmental, social, and economic sustainability. Join YSR, and together we will build a better tomorrow.",
+  "external_url": "https://ysr.community",
+  "socials": {
+    "telegram": "https://t.me/Your_Sustainable_Resource"
+  }
 }
